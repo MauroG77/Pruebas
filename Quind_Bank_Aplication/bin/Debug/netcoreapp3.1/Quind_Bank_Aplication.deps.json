@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quind_Bank_Aplication/1.0.0": {
+        "dependencies": {
+          "Quind_Bank_Domain": "1.0.0"
+        },
+        "runtime": {
+          "Quind_Bank_Aplication.dll": {}
+        }
+      },
+      "Quind_Bank_Domain/1.0.0": {
+        "runtime": {
+          "Quind_Bank_Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quind_Bank_Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quind_Bank_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

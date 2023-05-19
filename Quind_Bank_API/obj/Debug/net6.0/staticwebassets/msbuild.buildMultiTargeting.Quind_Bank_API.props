@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Quind_Bank_API.props" />
+</Project>
